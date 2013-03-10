@@ -1,0 +1,10 @@
+Shows file age for the current working directory.
+
+Compile using gcc -ansi age.c -o age
+
+Default output is seconds in descending order.
+-r reverses the output (asc).
+-h display in hours
+-m display in minutes
+-hm display in hours and minutes
+
